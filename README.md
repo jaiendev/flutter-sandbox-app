@@ -1,6 +1,6 @@
 # app_sale
 
-A new Flutter project.
+A new Flutter app project support sale.
 
 ## Getting Started
 
